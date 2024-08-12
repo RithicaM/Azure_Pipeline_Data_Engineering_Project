@@ -47,6 +47,7 @@
 -  Mounted Azure Blob Storage in Databricks to access the raw data from the Data Lake.
 -  Used a Spark Cluster in Azure Databricks to transform the data following the Medallion Architecture, moving it from the Bronze stage to Silver and then to Gold.
 -  Saved the final, refined data in Delta format, optimized for further analysis.
+  
 ![image](https://github.com/RithicaM/Azure_Pipeline_Data_Engineering_Project/blob/main/Implemention%20images/Mounting1.png)
 
 ![image](https://github.com/RithicaM/Azure_Pipeline_Data_Engineering_Project/blob/main/Implemention%20images/Mounting2.png)
@@ -79,7 +80,7 @@
 
 -  Loaded data from views into Microsoft Power BI using DirectQuery, allowing automatic updates from cloud pipelines.
 -  Connected Power BI to Azure Synapse and used database views to create interactive and insightful data visualizations.
-- 
+   
 ![image](https://github.com/RithicaM/Azure_Pipeline_Data_Engineering_Project/blob/main/Implemention%20images/dashboard%20.png)
 
 
