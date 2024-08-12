@@ -7,7 +7,7 @@
 -The solution also connects to Microsoft Power BI for easy data visualization and reporting through a dashboard.
 
 ## 📚 Dataset
-###AdventureWorks Dataset
+### AdventureWorks Dataset
 [Download here](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksLT2022.bak)
 
 ## ⚙ Services Used
@@ -20,6 +20,8 @@
 
 ## 📐 Project Architecture
 
+##📩 Data Ingestion
+-Established a connection between the on-premises SQL Server and Azure using Microsoft Integration Runtime.
+![image](https://github.com/Hamagistral/Azure-AW/assets/66017329/62990af9-db6e-4712-81bf-61420835bb99)
 
-   ![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/SOURCE%202017LTv1.png)
 
