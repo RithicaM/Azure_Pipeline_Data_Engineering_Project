@@ -18,7 +18,7 @@
 - **Security & Governance**: Azure Active Directory and Azure Key Vault
 - **Data Visualization**: PowerBI
 
-## 📐 **Project Architecture**
+## 📌 **Project Architecture**
 
 ![image](https://github.com/RithicaM/Azure_Pipeline_Data_Engineering_Project/blob/main/Implemention%20images/Azure%20Project%201.gif)
 
@@ -75,6 +75,10 @@
 ![image](https://github.com/RithicaM/Azure_Pipeline_Data_Engineering_Project/blob/main/Implemention%20images/stored%20procedure.png)
 
 ![image](https://github.com/RithicaM/Azure_Pipeline_Data_Engineering_Project/blob/main/Implemention%20images/serverless%20db.png)
+
+- 🗓️ Scheduled Trigger
+
+![image](https://github.com/RithicaM/Azure_Pipeline_Data_Engineering_Project/blob/main/Implemention%20images/trigger.png)
 
 ## 📊 Data Reporting
 
